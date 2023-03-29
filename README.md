@@ -1,3 +1,4 @@
 # manuelalonso
 <a rel="me" href="https://mstdn.social/@manuelalonso">Mastodon</a>
-https://twitter.com/ManoloAlonso1
+<a rel="me" href="[https://twitter.com/ManoloAlonso1">Twitter</a>
+
